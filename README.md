@@ -238,4 +238,4 @@ This repository serves as the official landing page for ChessNet. The software i
 **Get the most recent version of ChessNet today!**
 
 ---
-**Last updated:** 2026-10-26 21:57:11 UTC
+**Last updated:** 2026-10-27 01:01:39 UTC
